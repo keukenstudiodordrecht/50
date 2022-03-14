@@ -61,7 +61,7 @@ overeenkomst met jou of om te voldoen aan een wettelijke verplichting.
 SandersVerjaardag gebruikt geen cookies of vergelijkbare technieken.
 
 
-###Gegevens inzien, aanpassen of verwijderen
+### Gegevens inzien, aanpassen of verwijderen
 Je hebt het recht om je persoonsgegevens in te zien, te corrigeren of te verwijderen. Daarnaast heb je het recht
 om je eventuele toestemming voor de gegevensverwerking in te trekken of bezwaar te maken tegen de verwerking van
 jouw persoonsgegevens door SandersVerjaardag en heb je het recht op gegevensoverdraagbaarheid. Dat betekent dat
